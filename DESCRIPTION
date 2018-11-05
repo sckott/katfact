@@ -1,4 +1,4 @@
-Package: catfact
+Package: katfact
 Title: Get You Some HTTP Cat Status Images
 Description: Get You Some HTTP Cat Status Images.
 Version: 0.1.0
@@ -7,7 +7,7 @@ Authors@R: c(
         email = "myrmecocystus@gmail.com")
   )
 License: MIT + file LICENSE
-URL: https://github.com/sckott/catfact
+URL: https://github.com/sckott/katfact
 Roxygen: list(markdown = TRUE)
 Encoding: UTF-8
 Imports:
