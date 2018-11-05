@@ -3,7 +3,7 @@ catfact
 
 
 
-[![Build Status](https://travis-ci.org/sckott/catfact.svg?branch=master)](https://travis-ci.org/sckott/catfact)
+[![Build Status](https://travis-ci.com/sckott/katfact.svg?branch=master)](https://travis-ci.com/sckott/katfact)
 
 `catfact` package
 

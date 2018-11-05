@@ -10,7 +10,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-[![Build Status](https://travis-ci.org/sckott/katfact.svg?branch=master)](https://travis-ci.org/sckott/katfact)
+[![Build Status](https://travis-ci.com/sckott/katfact.svg?branch=master)](https://travis-ci.com/sckott/katfact)
 
 `katfact` package
 
